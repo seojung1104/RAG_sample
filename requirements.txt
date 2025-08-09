@@ -1,0 +1,7 @@
+torch
+transformers
+datasets
+faiss-cpu
+langchain
+sentence-transformers
+pypdf
