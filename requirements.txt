@@ -3,5 +3,7 @@ transformers
 datasets
 faiss-cpu
 langchain
+langchain-community
 sentence-transformers
 pypdf
+numpy
